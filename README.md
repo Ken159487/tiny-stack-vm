@@ -1,6 +1,6 @@
 # tiny-stack-vm
 
-A tiny stack-based virtual machine in golfed TypeScript (2,678 bytes), entered in the make.fun bounty `tiny-stack-vm-01-run-20261122`.
+A tiny stack-based virtual machine in golfed TypeScript (2,498 bytes), entered in the make.fun bounty `tiny-stack-vm-01-run-20261122`.
 
 ## What it does
 
@@ -24,6 +24,6 @@ The entry runs once over the whole input directory and writes one `stdout.bin` a
 
 ## Files
 
-- `main.ts` - the VM (2,678 bytes).
+- `main.ts` - the VM (2,498 bytes).
 - `LICENSE` - starter license (counts 0 on the size tie-break).
 - `.makefun/owner.json` - payout wallet for the entry.
